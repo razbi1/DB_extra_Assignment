@@ -1,0 +1,7 @@
+Output 1: ('Vape', 'Smoking', 'Slava Ribalchenko')
+('Chair', 'Furniture', 'Ilya Razbezhkin')
+('Vape', 'Smoking', 'Ilya Razbezhkin')
+
+Output 2: ('Ilya Razbezhkin', 5.5)
+('Slava Ribalchenko', 1.5)
+('Danila Kuzmin', 0.0)
